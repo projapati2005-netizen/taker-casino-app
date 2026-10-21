@@ -1,0 +1,15 @@
+/vendor
+/node_modules
+**/node_modules
+.env
+.env.backup
+/storage/*.key
+/storage/framework
+/storage/logs
+/public/storage
+composer.phar
+*.log
+.DS_Store
+
+*.7z
+*.pdf
